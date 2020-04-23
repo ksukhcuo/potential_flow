@@ -4,6 +4,8 @@ This program calculates 2-dimensional potential flow around the quadrangular pri
 
 It solve 2-dimensional Laplace's equation using Successive Over-Relaxation method (SOR), and take gradient of the potential to obtain the velocity field.
 
+![flow velocity](https://github.com/ksukhcuo/potential_flow/blob/images/demo.png)
+
 ## Requirements
 
 This requires following packages.
